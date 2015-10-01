@@ -78,7 +78,7 @@ SMRSim and all its example applications are distributed "as is," without technic
 
 # Contact and Bug Reports
 
-Please contact (mailto:dl-smrsim@wdc.com) to report problems.
+Please contact (mail to:dl-smrsim@wdc.com) to report problems.
 
 # References
 
