@@ -13,7 +13,7 @@ With host managed SMR device, the host uses commands and Zone information to opt
 # Software Requirements
 
 *   Linux Kernel 3.14.0 or greater. 
-*   Build recently (6/2017) verified using Ubuntu 14.10, kernel 3.16.  Known build issued with > kernel versions.
+*   Build recently (6/2017) verified using Ubuntu 14.10, kernel 3.16.  Known build issues with > kernel versions.
 
 # Goals for Linux SMR Simulator
 
